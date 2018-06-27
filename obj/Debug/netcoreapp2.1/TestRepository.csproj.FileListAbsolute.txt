@@ -1,0 +1,11 @@
+C:\Users\Apriso\Documents\Git\TestRepository\bin\Debug\netcoreapp2.1\TestRepository.deps.json
+C:\Users\Apriso\Documents\Git\TestRepository\bin\Debug\netcoreapp2.1\TestRepository.runtimeconfig.json
+C:\Users\Apriso\Documents\Git\TestRepository\bin\Debug\netcoreapp2.1\TestRepository.runtimeconfig.dev.json
+C:\Users\Apriso\Documents\Git\TestRepository\bin\Debug\netcoreapp2.1\TestRepository.dll
+C:\Users\Apriso\Documents\Git\TestRepository\bin\Debug\netcoreapp2.1\TestRepository.pdb
+C:\Users\Apriso\Documents\Git\TestRepository\obj\Debug\netcoreapp2.1\TestRepository.csprojAssemblyReference.cache
+C:\Users\Apriso\Documents\Git\TestRepository\obj\Debug\netcoreapp2.1\TestRepository.csproj.CoreCompileInputs.cache
+C:\Users\Apriso\Documents\Git\TestRepository\obj\Debug\netcoreapp2.1\TestRepository.AssemblyInfoInputs.cache
+C:\Users\Apriso\Documents\Git\TestRepository\obj\Debug\netcoreapp2.1\TestRepository.AssemblyInfo.cs
+C:\Users\Apriso\Documents\Git\TestRepository\obj\Debug\netcoreapp2.1\TestRepository.dll
+C:\Users\Apriso\Documents\Git\TestRepository\obj\Debug\netcoreapp2.1\TestRepository.pdb
